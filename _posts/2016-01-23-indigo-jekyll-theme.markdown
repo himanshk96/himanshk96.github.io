@@ -13,7 +13,6 @@ author: Himanshu Kriplani
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
 In the era of big data and analytics, the power which a data driven business has been exponentially increasing. Greater integration of AI and Machine learning has played a vital role in development of systems which can benefit both the Business and Business user as well. Moreover,Recommendation systems add an edge to digital businesses. [Demo](http://). 
 
