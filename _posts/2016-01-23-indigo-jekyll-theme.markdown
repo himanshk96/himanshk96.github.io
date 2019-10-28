@@ -1,35 +1,30 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":ramen: Recommendation Systems on Implicit Datasets"
 layout: post
 date: 2016-01-23 22:10
-tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+tag: Data Science
+image: https://miro.medium.com/max/1800/1*ezY_g30VQ8MTGpDwd3z56w.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "Recommendation engines using Alternating Least Square"
 category: project
-author: johndoe
+author: Himanshu Kriplani
 externalLink: false
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+In the era of big data and analytics, the power which a data driven business has been exponentially increasing. Greater integration of AI and Machine learning has played a vital role in development of systems which can benefit both the Business and Business user as well. Moreover,Recommendation systems add an edge to digital businesses. [Demo](http://). 
 
 ---
 
 What has inside?
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+- Python
+- Implicit, A Library for Recommendations
 
 ---
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+[Check it out](https://towardsdatascience.com/alternating-least-square-for-implicit-dataset-with-code-8e7999277f4b) here.
+
