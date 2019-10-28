@@ -34,21 +34,21 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/himanshu.kriplani.5
-twitter: https://twitter.com/krip_himanshu
+facebook: himanshu.kriplani.5
+twitter: krip_himanshu
 # google: mygoogle
-instagram: https://www.instagram.com/himanshu.kriplani/
+instagram: himanshu.kriplani/
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/himanshu-kriplani/
+linkedin: himanshu-kriplani/
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/himanshk96
+github: himanshk96
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: https://medium.com/@himanshukriplani
+medium: himanshukriplani
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: kriplani.himanshu96@gmail.com
